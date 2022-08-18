@@ -12,3 +12,6 @@
 
 ##Git Ignore
   Git Ignore is used to ignore files that should not be shown to the the contributors.The files exist but are seen as hidden files. The files are made whe setting up a     repo.
+##Privacy
+  Privacy is of outmost important. Sensitive information and credentials should not be stored as such info could lead to data breaches. Cookies or temp files should be 
+  created where needed to keep these type of info and it must be password protected. Encryption should be used everywhere where sensitive info are used.
